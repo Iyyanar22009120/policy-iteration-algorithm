@@ -59,7 +59,8 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 
 
 #### success rate for the optimal policy
-![Screenshot 2024-11-19 201635](https://github.com/user-attachments/assets/2631c7a1-a94d-4085-b43a-6c12b8efe7ee)
+![image](https://github.com/user-attachments/assets/e268f717-b791-4730-83a5-d219907a0a56)
+
 
 
 ## RESULT:
